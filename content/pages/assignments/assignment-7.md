@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b71f0a8c-d5da-da5e-9652-9015522539b2
 title: Portfolio
 uid: eadaf32b-fe35-3c7c-92ec-be872b0d2dbb

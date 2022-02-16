@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: dd8e3418-9bd3-ecd5-ed7f-9d14bb938ba7
 ---
@@ -279,7 +282,7 @@ MCAS Design and Student Preparation
 {{< tdopen >}}
 Classroom Management: Ses#1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 
 
 "Overarching Objectives." Chapter 20 in \[Skillfull\].

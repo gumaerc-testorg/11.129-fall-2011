@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b71f0a8c-d5da-da5e-9652-9015522539b2
 title: 'Journal Reflection #1'
 uid: eca7f224-fb2e-9f90-6a26-494bbd963071

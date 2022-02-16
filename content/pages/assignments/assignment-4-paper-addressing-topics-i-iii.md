@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b71f0a8c-d5da-da5e-9652-9015522539b2
 title: 'Journal Reflection #3'
 uid: d15ce459-35e3-3eb4-c3b8-09256da41fbb

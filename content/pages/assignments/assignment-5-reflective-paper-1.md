@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b71f0a8c-d5da-da5e-9652-9015522539b2
 title: 'Formal Reflective Paper #1'
 uid: aa937a0c-799b-ae1b-12af-79f38c574c73
