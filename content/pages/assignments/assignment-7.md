@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains information about the final assignments due for
+  the class, including Prepracticum logs, Curriculum project , and the Reflective
+  journal.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
