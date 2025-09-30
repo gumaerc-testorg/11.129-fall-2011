@@ -11,9 +11,9 @@ uid: dd8e3418-9bd3-ecd5-ed7f-9d14bb938ba7
 ---
 \[Skillful\] = Saphier, Jon, Mary Ann Haley-Speca, and Robert Gower. *The Skillful Teacher: Building Your Teaching Skills*. Research for Better Teaching, 2008. ISBN: 9781886822108.
 
-\[Tools\] = Jones, Frederic H., Patrick Jones, et al. *Fred Jones Tools for Teaching: Discipline, Instructions, Motivation*. Fredic H. Jones & Associates, 2007. ISBN: 9780965026321. \[Preview with [Google Books](http://books.google.com/books?id=K6sHwYih590C&pg=PAfrontcover)\]
+\[Tools\] = Jones, Frederic H., Patrick Jones, et al. *Fred Jones Tools for Teaching: Discipline, Instructions, Motivation*. Fredic H. Jones & Associates, 2007. ISBN: 9780965026321. \[Preview with {{% resource_link "1e1037f0-d2e4-4d3c-a4f3-3862e39acded" "Google Books" %}}\]
 
-\[Champion\] = Lemov, Doug. *Teach Like a Champion: 49 Techniques that Put Students on the Path to College*. Jossey-Bass, 2010. ISBN: 9780470550472. \[Preview with [Google Books](http://books.google.com/books?id=1iWrvWJy5SwC&pg=PAfrontcover)\]
+\[Champion\] = Lemov, Doug. *Teach Like a Champion: 49 Techniques that Put Students on the Path to College*. Jossey-Bass, 2010. ISBN: 9780470550472. \[Preview with {{% resource_link "5c51aba0-7b4f-4d0e-b0e1-670ba279c089" "Google Books" %}}\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -199,11 +199,11 @@ Classroom Management: Ses #6
 Common Core Standards and Implications for MCAS Testing
 {{< tdclose >}}{{< tdopen >}}
 
-"[Massachusetts Curriculum Frameworks](http://www.doe.mass.edu/frameworks/current.html)." Massachusetts Department of Elementary and Secondary Education website. February 22, 2011.
+"{{% resource_link "1e42e3be-3017-43fa-a9d8-86aff3576e53" "Massachusetts Curriculum Frameworks" %}}." Massachusetts Department of Elementary and Secondary Education website. February 22, 2011.
 
-"[Common Core State Standards Initiative: Massachusetts Side-by-Side Comparison Documents" (DOC)](https://www.doe.mass.edu/bese/CCSSHistory/2010-0716analysis.doc) Massachusetts Department of Elementary and Secondary Education website. May 4, 2012.
+"{{% resource_link "7b6d636b-ddd6-4870-8f46-51732197d3bd" "Common Core State Standards Initiative: Massachusetts Side-by-Side Comparison Documents\" (DOC)" %}} Massachusetts Department of Elementary and Secondary Education website. May 4, 2012.
 
-Rothman, Robert. "[Five Myths about the Common Core State Standards](https://idea.gseis.ucla.edu/newsroom/education-news-roundup/archive/archive-of-education-news-roundup-for-2011/october-2011/five-myths-about-the-common-core-state-standards/?searchterm=)." *Harvard Education Letter* 27, no. 5 (2011).
+Rothman, Robert. "{{% resource_link "4af2ae43-5784-49c2-b49f-167b0c8fdfea" "Five Myths about the Common Core State Standards" %}}." *Harvard Education Letter* 27, no. 5 (2011).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
